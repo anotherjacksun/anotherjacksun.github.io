@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>介绍 on Full Stack之路</title>
-    <link>https://northshao.github.io/</link>
+    <link>https://anotherjacksun.github.io/</link>
     <description>Recent content in 介绍 on Full Stack之路</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 07 May 2024 23:04:27 +0800</lastBuildDate>
-    <atom:link href="https://northshao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anotherjacksun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sch</title>
-      <link>https://northshao.github.io/gmp/scheduler/</link>
+      <link>https://anotherjacksun.github.io/gmp/scheduler/</link>
       <pubDate>Tue, 07 May 2024 23:04:27 +0800</pubDate>
-      <guid>https://northshao.github.io/gmp/scheduler/</guid>
+      <guid>https://anotherjacksun.github.io/gmp/scheduler/</guid>
       <description>ddd # dfss</description>
     </item>
     <item>
       <title>Xxx</title>
-      <link>https://northshao.github.io/gmp/xxx/</link>
+      <link>https://anotherjacksun.github.io/gmp/xxx/</link>
       <pubDate>Tue, 07 May 2024 23:04:27 +0800</pubDate>
-      <guid>https://northshao.github.io/gmp/xxx/</guid>
+      <guid>https://anotherjacksun.github.io/gmp/xxx/</guid>
       <description>hkff # dfss</description>
     </item>
     <item>
       <title></title>
-      <link>https://northshao.github.io/gmp/gmp-introduce/</link>
+      <link>https://anotherjacksun.github.io/gmp/gmp-introduce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://northshao.github.io/gmp/gmp-introduce/</guid>
+      <guid>https://anotherjacksun.github.io/gmp/gmp-introduce/</guid>
       <description> 4th Level of Menu # sadshfj dddf&#xA;sdd # </description>
     </item>
   </channel>

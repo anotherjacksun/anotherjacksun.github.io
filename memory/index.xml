@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Full Stack之路</title>
-    <link>https://northshao.github.io/memory/</link>
+    <link>https://anotherjacksun.github.io/memory/</link>
     <description>Recent content on Full Stack之路</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://northshao.github.io/memory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anotherjacksun.github.io/memory/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
